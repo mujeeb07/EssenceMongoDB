@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "671bab0f180001441213308e"
+  },
+  "coupon_name": "Easy Saver",
+  "coupon_description": "Catch a delightful scent with Quick Catch get Up to 20% off on any purchase above ₹2500.",
+  "coupon_code": "XFA#G3NZ",
+  "coupon_status": true,
+  "coupon_max_amount": 500,
+  "coupon_min_amount": 2500,
+  "coupon_expires": "2024-12-18",
+  "used_by": [
+    {
+      "$oid": "66f3a6663f278f74bda15634"
+    },
+    {
+      "$oid": "67558b1b40f252c20c981044"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-25T14:28:31.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T05:13:21.615Z"
+  },
+  "__v": 0,
+  "discount_percentage": 20
+},
+{
+  "_id": {
+    "$oid": "671baded18000144121330a0"
+  },
+  "coupon_name": "Smart Saver",
+  "coupon_description": "A smarter way to scent up! Get up-to 20% off on above purchases ₹5000 and save on iconic fragrances.",
+  "coupon_code": "ZF#&OZNR",
+  "coupon_status": true,
+  "coupon_max_amount": 1000,
+  "coupon_min_amount": 5000,
+  "coupon_expires": "2024-12-25",
+  "used_by": [
+    {
+      "$oid": "67567fef5d52195090034fdf"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-25T14:40:45.259Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T09:34:16.317Z"
+  },
+  "__v": 0,
+  "discount_percentage": 20
+},
+{
+  "_id": {
+    "$oid": "671bafd518000144121330a3"
+  },
+  "coupon_name": "Mega Saver",
+  "coupon_description": "Unlock the Mega Saver and get Up-to 20% off on purchase above ₹7500 on luxury perfumes that leave a lasting impression.",
+  "coupon_code": "VGR#287Y",
+  "coupon_status": true,
+  "coupon_max_amount": 1500,
+  "coupon_min_amount": 7500,
+  "coupon_expires": "2024-12-21",
+  "used_by": [
+    {
+      "$oid": "66f3a6663f278f74bda15634"
+    },
+    {
+      "$oid": "674efcbf9ed214ffd0961a68"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-25T14:48:53.808Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T12:47:25.245Z"
+  },
+  "__v": 0,
+  "discount_percentage": 20
+},
+{
+  "_id": {
+    "$oid": "6731e647580b047dd5fe0771"
+  },
+  "coupon_name": "welcome Bonus",
+  "coupon_description": "welcome",
+  "coupon_code": "&V#H6FHG",
+  "coupon_status": true,
+  "discount_percentage": 10,
+  "coupon_max_amount": 500,
+  "coupon_min_amount": 20000,
+  "coupon_expires": "2024-12-15",
+  "used_by": [],
+  "createdAt": {
+    "$date": "2024-11-11T11:11:03.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T11:36:35.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6744530cea74b8605feb5aad"
+  },
+  "coupon_name": "Entry Bonus",
+  "coupon_description": "Entry",
+  "coupon_code": "S5N@7OW8",
+  "coupon_status": true,
+  "discount_percentage": 10,
+  "coupon_max_amount": 1000,
+  "coupon_min_amount": 2500,
+  "coupon_expires": "2024-12-07",
+  "used_by": [
+    {
+      "$oid": "66f3a6663f278f74bda15634"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-25T10:35:56.375Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T11:54:22.168Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,3791 @@
+[{
+  "_id": {
+    "$oid": "673e17873ac46768f4573ddd"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f9450dcc94c9957a6073a9"
+        },
+        "name": "Velvet Night",
+        "description": "Bold and sensual",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612169/kl2x0m7wjfh1pog5qgb0.webp",
+        "variants": {
+          "volume": 50,
+          "price": 2800
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f238fbecd0a09120aa90bd"
+          },
+          "name": "Eternity Eau de Parfum",
+          "gender": "Men"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 2800,
+      "_id": {
+        "$oid": "673e17873ac46768f4573dde"
+      }
+    }
+  ],
+  "sub_total": 2800,
+  "tax": 504,
+  "discount_amount": 0,
+  "total": 3304,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T17:08:25.108Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T17:19:51.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e1b4533798a7e32d130be"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f9444fcc94c9957a607362"
+        },
+        "name": "Mystic Woods",
+        "description": "Woody and earthy",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727611979/lookg1eiaigy9qxwfxio.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3600
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b6c6377919631d4caf7"
+          },
+          "brandName": "Tom Ford",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 3600,
+      "_id": {
+        "$oid": "673e1b4533798a7e32d130bf"
+      }
+    }
+  ],
+  "sub_total": 3600,
+  "tax": 648,
+  "discount_amount": 0,
+  "total": 4248,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T17:24:21.630Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T17:24:37.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e1ca79236c4f540b7dd9e"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f943dccc94c9957a60735b"
+        },
+        "name": "Divine Aura",
+        "description": "Floral and fresh",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727611864/w6oodmsrm9paqaskuopa.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3200
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b916377919631d4cafb"
+          },
+          "name": "Designer",
+          "gender": "Women"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 3200,
+      "_id": {
+        "$oid": "673e1ca79236c4f540b7dd9f"
+      }
+    }
+  ],
+  "sub_total": 3200,
+  "tax": 576,
+  "discount_amount": 0,
+  "total": 3776,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T17:30:18.262Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T17:30:42.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e1d51ed8176589e939289"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f026caecd0a09120aa8d46"
+        },
+        "name": "Gucci Mémoire d’une Odeur",
+        "description": "Unique, nostalgic fragrance with chamomile and jasmine.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014596/hpej2meotebwa1ihtcln.webp",
+        "variants": {
+          "volume": 50,
+          "price": 6099
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 6099,
+      "_id": {
+        "$oid": "673e1d51ed8176589e93928a"
+      }
+    }
+  ],
+  "sub_total": 6099,
+  "tax": 1097.82,
+  "discount_amount": 0,
+  "total": 7196.82,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T17:33:05.736Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T17:33:30.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e25a749a95a1789fbd3c8"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94709cc94c9957a6073eb"
+        },
+        "name": "Spice Trail",
+        "description": "Spicy and oriental",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612677/qnuychbgf1ejbwe9ddms.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3500
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f238fbecd0a09120aa90bd"
+          },
+          "name": "Eternity Eau de Parfum",
+          "gender": "Men"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f023f6ecd0a09120aa8d16"
+          },
+          "brandName": "Dior",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727013876/l5rpz9sbxmkyhrx3lwy0.png"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 3500,
+      "_id": {
+        "$oid": "673e25a749a95a1789fbd3c9"
+      }
+    }
+  ],
+  "sub_total": 3500,
+  "tax": 630,
+  "discount_amount": 0,
+  "total": 4130,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T18:08:41.153Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T18:09:01.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e265179562b351d8cb1ff"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f7859826cc2f4382d3b290"
+        },
+        "name": "Lacoste",
+        "description": "Premium Fragrance",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727497622/v5luuhnelqjrhz4wrcj6.webp",
+        "variants": {
+          "volume": 75,
+          "price": 2609.1
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b496377919631d4caf3"
+          },
+          "name": "Niche",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b6c6377919631d4caf7"
+          },
+          "brandName": "Tom Ford",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 2609.1,
+      "_id": {
+        "$oid": "673e265179562b351d8cb200"
+      }
+    }
+  ],
+  "sub_total": 2609.1,
+  "tax": 469.638,
+  "discount_amount": 0,
+  "total": 3078.74,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T18:11:30.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T18:12:12.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e27e52268911feab94556"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f026caecd0a09120aa8d46"
+        },
+        "name": "Gucci Mémoire d’une Odeur",
+        "description": "Unique, nostalgic fragrance with chamomile and jasmine.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014596/hpej2meotebwa1ihtcln.webp",
+        "variants": {
+          "volume": 50,
+          "price": 6099
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 6099,
+      "_id": {
+        "$oid": "673e27e52268911feab94557"
+      }
+    }
+  ],
+  "sub_total": 6099,
+  "tax": 1097.82,
+  "discount_amount": 0,
+  "total": 7196.82,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T18:18:13.561Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T18:18:36.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e29eb9c6d42d1a05048fa"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "Mujeeb",
+    "mobile": 7510104492,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94768cc94c9957a6073f2"
+        },
+        "name": "Golden Hour",
+        "description": "Citrus and warm",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612772/u9sbjm1pf83by70ocy0n.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3800
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 3800,
+      "_id": {
+        "$oid": "673e29eb9c6d42d1a05048fb"
+      }
+    }
+  ],
+  "sub_total": 3800,
+  "tax": 684,
+  "discount_amount": 0,
+  "total": 4484,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T18:26:52.285Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T18:27:06.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e2a8006f9c57072b886a5"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f17269ecd0a09120aa9049"
+        },
+        "name": "Calvin Klein",
+        "description": "Elegant, Luxurious, Professional",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727099495/lybkwerdkh71yke5wsqr.webp",
+        "variants": {
+          "volume": 50,
+          "price": 5499
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f1701eecd0a09120aa9024"
+          },
+          "brandName": "Calvin Klein",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727098909/pn3w7qwp56cpgeuhqofm.svg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 5499,
+      "_id": {
+        "$oid": "673e2a8006f9c57072b886a6"
+      }
+    }
+  ],
+  "sub_total": 5499,
+  "tax": 989.8199999999999,
+  "discount_amount": 0,
+  "total": 6488.82,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T18:29:20.555Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T18:29:38.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e2b2ef5d548ed488e6a91"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f9469bcc94c9957a6073e4"
+        },
+        "name": "Blossom Bliss",
+        "description": "Sweet floral notes",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612566/wx4rrithurfcc0hd6dct.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3100
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f1701eecd0a09120aa9024"
+          },
+          "brandName": "Calvin Klein",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727098909/pn3w7qwp56cpgeuhqofm.svg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 3100,
+      "_id": {
+        "$oid": "673e2b2ef5d548ed488e6a92"
+      }
+    }
+  ],
+  "sub_total": 3100,
+  "tax": 558,
+  "discount_amount": 0,
+  "total": 3658,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T18:32:14.620Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T18:32:32.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e2c4341cb1b1e23986e44"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f23e2aa92f2ffa2d213471"
+        },
+        "name": "Lacoste",
+        "description": "Woodie fragrance",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727151654/zpe0gt4esrii7e3tbcsn.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3799
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b496377919631d4caf3"
+          },
+          "name": "Niche",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 3799,
+      "_id": {
+        "$oid": "673e2c4341cb1b1e23986e45"
+      }
+    }
+  ],
+  "sub_total": 3799,
+  "tax": 683.8199999999999,
+  "discount_amount": 0,
+  "total": 4482.82,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-20T18:36:51.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T18:37:06.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ead321a75213c5f50aa9e"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94709cc94c9957a6073eb"
+        },
+        "name": "Spice Trail",
+        "description": "Spicy and oriental",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612677/qnuychbgf1ejbwe9ddms.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3500
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f238fbecd0a09120aa90bd"
+          },
+          "name": "Eternity Eau de Parfum",
+          "gender": "Men"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f023f6ecd0a09120aa8d16"
+          },
+          "brandName": "Dior",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727013876/l5rpz9sbxmkyhrx3lwy0.png"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 3500,
+      "_id": {
+        "$oid": "673ead321a75213c5f50aa9f"
+      }
+    }
+  ],
+  "sub_total": 3500,
+  "tax": 630,
+  "discount_amount": 0,
+  "total": 4130,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-21T03:47:02.645Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T03:55:28.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ec111f705ca8c409148b0"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f027a0ecd0a09120aa8d5c"
+        },
+        "name": "Creed Royal Oud",
+        "description": "Rich, woody scent with oud and spices.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014812/l5ymdi8766x99yburpoo.webp",
+        "variants": {
+          "volume": 50,
+          "price": 11560
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 11560,
+      "_id": {
+        "$oid": "673ec111f705ca8c409148b1"
+      }
+    },
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f0233fecd0a09120aa8d09"
+        },
+        "name": "Tom Ford Black Orchid",
+        "description": "Rich, dark floral with spices and chocolate.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1728130002/vw8mqgdn4b2jkkpyodrl.webp",
+        "variants": {
+          "volume": 50,
+          "price": 6700
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bd16377919631d4cb03"
+          },
+          "name": "Fresh",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 6700,
+      "_id": {
+        "$oid": "673ec111f705ca8c409148b2"
+      }
+    }
+  ],
+  "sub_total": 18260,
+  "tax": 3286.7999999999997,
+  "discount_amount": 500,
+  "total": 21046.8,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-21T05:11:48.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T07:58:02.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ed855f705ca8c40914941"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "Mujeeb",
+    "mobile": 7510104492,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f0233fecd0a09120aa8d09"
+        },
+        "name": "Tom Ford Black Orchid",
+        "description": "Rich, dark floral with spices and chocolate.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1728130002/vw8mqgdn4b2jkkpyodrl.webp",
+        "variants": {
+          "volume": 50,
+          "price": 6700
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bd16377919631d4cb03"
+          },
+          "name": "Fresh",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 6700,
+      "_id": {
+        "$oid": "673ed855f705ca8c40914942"
+      }
+    }
+  ],
+  "sub_total": 6700,
+  "tax": 1206,
+  "discount_amount": 500,
+  "total": 7906,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-21T06:51:02.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T07:55:49.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f69beead60e0449963a30"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "Mujeeb",
+    "mobile": 7510104492,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f026caecd0a09120aa8d46"
+        },
+        "name": "Gucci Mémoire d’une Odeur",
+        "description": "Unique, nostalgic fragrance with chamomile and jasmine.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014596/hpej2meotebwa1ihtcln.webp",
+        "variants": {
+          "volume": 50,
+          "price": 6099
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 6099,
+      "_id": {
+        "$oid": "673f69beead60e0449963a31"
+      }
+    }
+  ],
+  "sub_total": 6099,
+  "tax": 1097.82,
+  "discount_amount": 0,
+  "total": 7196.82,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-21T17:11:28.558Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T17:13:09.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ff26024bb4ecdd783b25d"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f025adecd0a09120aa8d33"
+        },
+        "name": "Miss Dior Blooming Bouquet",
+        "description": "Delicate floral fragrance with peony and rose.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014314/zsk4jldbsvsxb7jct7di.webp",
+        "variants": {
+          "volume": 50,
+          "price": 5850
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f023f6ecd0a09120aa8d16"
+          },
+          "brandName": "Dior",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727013876/l5rpz9sbxmkyhrx3lwy0.png"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 5850,
+      "_id": {
+        "$oid": "673ff26024bb4ecdd783b25e"
+      }
+    }
+  ],
+  "sub_total": 5850,
+  "tax": 1053,
+  "discount_amount": 0,
+  "total": 6903,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-22T02:54:26.260Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T02:55:13.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ff4786cb87966cdb88556"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f7859826cc2f4382d3b290"
+        },
+        "name": "Lacoste",
+        "description": "Premium Fragrance",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727497622/v5luuhnelqjrhz4wrcj6.webp",
+        "variants": {
+          "volume": 75,
+          "price": 2609.1
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b496377919631d4caf3"
+          },
+          "name": "Niche",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b6c6377919631d4caf7"
+          },
+          "brandName": "Tom Ford",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 2609.1,
+      "_id": {
+        "$oid": "673ff4786cb87966cdb88557"
+      }
+    }
+  ],
+  "sub_total": 2609.1,
+  "tax": 469.638,
+  "discount_amount": 0,
+  "total": 3078.74,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-22T03:03:21.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T03:03:37.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ff7577c89059495085f16"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f945c3cc94c9957a6073b0"
+        },
+        "name": "Amber Mist",
+        "description": "Warm and amber",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612353/zmzapgeuqdkligs9p5bw.webp",
+        "variants": {
+          "volume": 100,
+          "price": 2552
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 2552,
+      "_id": {
+        "$oid": "673ff7577c89059495085f17"
+      }
+    }
+  ],
+  "sub_total": 2552,
+  "tax": 459.35999999999996,
+  "discount_amount": 0,
+  "total": 3011.36,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-22T03:15:36.491Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T03:16:08.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ff9ff2b5dab56857b832d"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "Mujeeb",
+    "mobile": 7510104492,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f7859826cc2f4382d3b290"
+        },
+        "name": "Lacoste",
+        "description": "Premium Fragrance",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727497622/v5luuhnelqjrhz4wrcj6.webp",
+        "variants": {
+          "volume": 75,
+          "price": 2609.1
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b496377919631d4caf3"
+          },
+          "name": "Niche",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b6c6377919631d4caf7"
+          },
+          "brandName": "Tom Ford",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 2609.1,
+      "_id": {
+        "$oid": "673ff9ff2b5dab56857b832e"
+      }
+    },
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f948f5cc94c9957a60740e"
+        },
+        "name": "Lavender Dream",
+        "description": "Soft lavender aroma",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727613170/wrc2hbzh5t4v7egp1yf6.webp",
+        "variants": {
+          "volume": 100,
+          "price": 5580
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f238fbecd0a09120aa90bd"
+          },
+          "name": "Eternity Eau de Parfum",
+          "gender": "Men"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Cancelled"
+      },
+      "quantity": 1,
+      "price": 5580,
+      "_id": {
+        "$oid": "673ff9ff2b5dab56857b832f"
+      }
+    }
+  ],
+  "sub_total": 8189.1,
+  "tax": 1474.038,
+  "discount_amount": 1000,
+  "total": 8663.14,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-22T03:26:55.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T03:33:07.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740676bc8bedfe7585cee65"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "Mujeeb",
+    "mobile": 7510104492,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f027a0ecd0a09120aa8d5c"
+        },
+        "name": "Creed Royal Oud",
+        "description": "Rich, woody scent with oud and spices.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014812/l5ymdi8766x99yburpoo.webp",
+        "variants": {
+          "volume": 50,
+          "price": 11560
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Initiated"
+      },
+      "quantity": 1,
+      "price": 8.719718485143604e-20,
+      "_id": {
+        "$oid": "6740676bc8bedfe7585cee66"
+      }
+    },
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94709cc94c9957a6073eb"
+        },
+        "name": "Spice Trail",
+        "description": "Spicy and oriental",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612677/qnuychbgf1ejbwe9ddms.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3500
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f238fbecd0a09120aa90bd"
+          },
+          "name": "Eternity Eau de Parfum",
+          "gender": "Men"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f023f6ecd0a09120aa8d16"
+          },
+          "brandName": "Dior",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727013876/l5rpz9sbxmkyhrx3lwy0.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Initiated"
+      },
+      "quantity": 1,
+      "price": 2.640053174567698e-20,
+      "_id": {
+        "$oid": "6740676bc8bedfe7585cee67"
+      }
+    }
+  ],
+  "sub_total": 15060,
+  "tax": 2710.7999999999997,
+  "discount_amount": 1500,
+  "total": 16270.8,
+  "payment_method": "COD",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-22T11:13:47.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T18:08:14.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674166e410e1a274c6e1581a"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f7859826cc2f4382d3b290"
+        },
+        "name": "Lacoste",
+        "description": "Premium Fragrance",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727497622/v5luuhnelqjrhz4wrcj6.webp",
+        "variants": {
+          "volume": 75,
+          "price": 2609.1
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b496377919631d4caf3"
+          },
+          "name": "Niche",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b6c6377919631d4caf7"
+          },
+          "brandName": "Tom Ford",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Initiated"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "674166e410e1a274c6e1581b"
+      }
+    }
+  ],
+  "sub_total": 2609.1,
+  "tax": 469.638,
+  "discount_amount": 0,
+  "total": 3078.74,
+  "payment_method": "online",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-23T05:23:49.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T11:55:17.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674172222f46d776474a0697"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f23e2aa92f2ffa2d213471"
+        },
+        "name": "Lacoste",
+        "description": "Woodie fragrance",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727151654/zpe0gt4esrii7e3tbcsn.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3799
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b496377919631d4caf3"
+          },
+          "name": "Niche",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Initiated",
+        "return_reason": "Defective Product"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "674172222f46d776474a0698"
+      }
+    }
+  ],
+  "sub_total": 3799,
+  "tax": 683.8199999999999,
+  "discount_amount": 0,
+  "total": 4482.82,
+  "payment_method": "online",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-23T06:11:47.400Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T11:55:17.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6741fba21264089496501d30"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "6739e312e52b32681d2c0e0e"
+        },
+        "name": "Eternity Eau de Parfum for Men",
+        "description": "This is a classic, sophisticated fragrance with a floral base",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1731846928/ggt04bxkdymyeifwg8ny.webp",
+        "variants": {
+          "volume": 100,
+          "price": 6299.1
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f1701eecd0a09120aa9024"
+          },
+          "brandName": "Calvin Klein",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727098909/pn3w7qwp56cpgeuhqofm.svg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Initiated",
+        "return_reason": "Damaged Product"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "6741fba21264089496501d31"
+      }
+    }
+  ],
+  "sub_total": 6299.1,
+  "tax": 1133.838,
+  "discount_amount": 0,
+  "total": 7432.94,
+  "payment_method": "COD",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-23T15:58:26.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T11:55:17.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6742290de87956fffa985470"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f025adecd0a09120aa8d33"
+        },
+        "name": "Miss Dior Blooming Bouquet",
+        "description": "Delicate floral fragrance with peony and rose.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014314/zsk4jldbsvsxb7jct7di.webp",
+        "variants": {
+          "volume": 50,
+          "price": 5850
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f023f6ecd0a09120aa8d16"
+          },
+          "brandName": "Dior",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727013876/l5rpz9sbxmkyhrx3lwy0.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Approved",
+        "return_reason": "Unsatisfactory Fragrance"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "6742290de87956fffa985471"
+      }
+    }
+  ],
+  "sub_total": 5850,
+  "tax": 1053,
+  "discount_amount": 0,
+  "total": 6903,
+  "payment_method": "online",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-23T19:12:14.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T19:21:01.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674315498ee89170a1936262"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94709cc94c9957a6073eb"
+        },
+        "name": "Spice Trail",
+        "description": "Spicy and oriental",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612677/qnuychbgf1ejbwe9ddms.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3500
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f238fbecd0a09120aa90bd"
+          },
+          "name": "Eternity Eau de Parfum",
+          "gender": "Men"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f023f6ecd0a09120aa8d16"
+          },
+          "brandName": "Dior",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727013876/l5rpz9sbxmkyhrx3lwy0.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Approved",
+        "return_reason": "Wrong Item Delivered"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "674315498ee89170a1936263"
+      }
+    }
+  ],
+  "sub_total": 3500,
+  "tax": 630,
+  "discount_amount": 0,
+  "total": 4130,
+  "payment_method": "online",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-24T12:00:10.493Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T19:20:54.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6743167002c759024ccbe5fb"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f026caecd0a09120aa8d46"
+        },
+        "name": "Gucci Mémoire d’une Odeur",
+        "description": "Unique, nostalgic fragrance with chamomile and jasmine.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014596/hpej2meotebwa1ihtcln.webp",
+        "variants": {
+          "volume": 50,
+          "price": 6099
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Approved",
+        "return_reason": "Unsatisfactory Fragrance"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "6743167002c759024ccbe5fc"
+      }
+    }
+  ],
+  "sub_total": 6099,
+  "tax": 1097.82,
+  "discount_amount": 0,
+  "total": 7196.82,
+  "payment_method": "online",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-24T12:05:04.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T19:19:54.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6743171498b4f671700c8baa"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f9444fcc94c9957a607362"
+        },
+        "name": "Mystic Woods",
+        "description": "Woody and earthy",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727611979/lookg1eiaigy9qxwfxio.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3600
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b6c6377919631d4caf7"
+          },
+          "brandName": "Tom Ford",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Approved",
+        "return_reason": "Wrong Item Delivered"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "6743171498b4f671700c8bab"
+      }
+    }
+  ],
+  "sub_total": 3600,
+  "tax": 648,
+  "discount_amount": 0,
+  "total": 4248,
+  "payment_method": "online",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-24T12:07:48.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T18:50:05.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674319e94c681fda3a218cf1"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94768cc94c9957a6073f2"
+        },
+        "name": "Golden Hour",
+        "description": "Citrus and warm",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612772/u9sbjm1pf83by70ocy0n.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3800
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Rejected",
+        "return_reason": "Unsatisfactory Fragrance"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "674319e94c681fda3a218cf2"
+      }
+    }
+  ],
+  "sub_total": 3800,
+  "tax": 684,
+  "discount_amount": 0,
+  "total": 4484,
+  "payment_method": "online",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-24T12:19:54.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T18:05:53.315Z"
+  },
+  "__v": 0,
+  "delivery_charge": 0,
+  "payment_status": "pending"
+},
+{
+  "_id": {
+    "$oid": "67432d2d7a1df36d5a90365b"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f7859826cc2f4382d3b290"
+        },
+        "name": "Lacoste",
+        "description": "Premium Fragrance",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727497622/v5luuhnelqjrhz4wrcj6.webp",
+        "variants": {
+          "volume": 75,
+          "price": 2609.1
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b496377919631d4caf3"
+          },
+          "name": "Niche",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b6c6377919631d4caf7"
+          },
+          "brandName": "Tom Ford",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Approved",
+        "return_reason": "Damaged Product"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "67432d2d7a1df36d5a90365c"
+      }
+    }
+  ],
+  "sub_total": 2609.1,
+  "tax": 469.638,
+  "discount_amount": 0,
+  "total": 3078.74,
+  "payment_method": "online",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-24T13:42:06.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T19:23:06.172Z"
+  },
+  "__v": 0,
+  "delivery_charge": 0,
+  "payment_status": "pending"
+},
+{
+  "_id": {
+    "$oid": "67438f45bd58b6da61aeb98e"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f027a0ecd0a09120aa8d5c"
+        },
+        "name": "Creed Royal Oud",
+        "description": "Rich, woody scent with oud and spices.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014812/l5ymdi8766x99yburpoo.webp",
+        "variants": {
+          "volume": 50,
+          "price": 11560
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Cancelled",
+        "return_request": "Pending"
+      },
+      "quantity": 1,
+      "price": 11560,
+      "_id": {
+        "$oid": "67438f45bd58b6da61aeb98f"
+      }
+    }
+  ],
+  "sub_total": 11560,
+  "tax": 2080.7999999999997,
+  "discount_amount": 0,
+  "total": 13640.8,
+  "payment_method": "wallet",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-24T20:40:37.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T04:12:56.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6743f621bd58b6da61aeba8b"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f9450dcc94c9957a6073a9"
+        },
+        "name": "Velvet Night",
+        "description": "Bold and sensual",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612169/kl2x0m7wjfh1pog5qgb0.webp",
+        "variants": {
+          "volume": 50,
+          "price": 2800
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f238fbecd0a09120aa90bd"
+          },
+          "name": "Eternity Eau de Parfum",
+          "gender": "Men"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Cancelled",
+        "return_request": "Pending"
+      },
+      "quantity": 1,
+      "price": 2800,
+      "_id": {
+        "$oid": "6743f621bd58b6da61aeba8c"
+      }
+    }
+  ],
+  "sub_total": 2800,
+  "tax": 504,
+  "discount_amount": 0,
+  "total": 3304,
+  "payment_method": "wallet",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-25T03:59:29.765Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T04:12:45.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6743f9e1cfb839e9c0ac3687"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f027a0ecd0a09120aa8d5c"
+        },
+        "name": "Creed Royal Oud",
+        "description": "Rich, woody scent with oud and spices.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014812/l5ymdi8766x99yburpoo.webp",
+        "variants": {
+          "volume": 50,
+          "price": 11560
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Approved",
+        "return_reason": "Damaged Product"
+      },
+      "quantity": 1,
+      "price": 0,
+      "_id": {
+        "$oid": "6743f9e1cfb839e9c0ac3688"
+      }
+    }
+  ],
+  "sub_total": 11560,
+  "tax": 2080.7999999999997,
+  "discount_amount": 0,
+  "total": 13640.8,
+  "payment_method": "wallet",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-25T04:15:29.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T04:17:37.837Z"
+  },
+  "__v": 0,
+  "delivery_charge": 0,
+  "payment_status": "pending"
+},
+{
+  "_id": {
+    "$oid": "6743fb3af5cff7c0323e3a78"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f027a0ecd0a09120aa8d5c"
+        },
+        "name": "Creed Royal Oud",
+        "description": "Rich, woody scent with oud and spices.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014812/l5ymdi8766x99yburpoo.webp",
+        "variants": {
+          "volume": 50,
+          "price": 11560
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Cancelled",
+        "return_request": "Pending"
+      },
+      "quantity": 1,
+      "price": 11560,
+      "_id": {
+        "$oid": "6743fb3af5cff7c0323e3a79"
+      }
+    }
+  ],
+  "sub_total": 11560,
+  "tax": 2080.7999999999997,
+  "discount_amount": 0,
+  "total": 13640.8,
+  "payment_method": "wallet",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-25T04:21:14.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T04:23:28.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6743fc6d994f53c1c488a87e"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f17269ecd0a09120aa9049"
+        },
+        "name": "Calvin Klein",
+        "description": "Elegant, Luxurious, Professional",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727099495/lybkwerdkh71yke5wsqr.webp",
+        "variants": {
+          "volume": 50,
+          "price": 5499
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f1701eecd0a09120aa9024"
+          },
+          "brandName": "Calvin Klein",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727098909/pn3w7qwp56cpgeuhqofm.svg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 5499,
+      "_id": {
+        "$oid": "6743fc6d994f53c1c488a87f"
+      }
+    },
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f948f5cc94c9957a60740e"
+        },
+        "name": "Lavender Dream",
+        "description": "Soft lavender aroma",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727613170/wrc2hbzh5t4v7egp1yf6.webp",
+        "variants": {
+          "volume": 100,
+          "price": 5580
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f238fbecd0a09120aa90bd"
+          },
+          "name": "Eternity Eau de Parfum",
+          "gender": "Men"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 4,
+      "price": 5580,
+      "_id": {
+        "$oid": "6743fc6d994f53c1c488a881"
+      }
+    }
+  ],
+  "sub_total": 23479,
+  "tax": 4226.22,
+  "discount_amount": 500,
+  "total": 46958.42,
+  "payment_method": "wallet",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-25T04:26:21.414Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T04:27:11.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67445487ea74b8605feb5cc6"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94768cc94c9957a6073f2"
+        },
+        "name": "Golden Hour",
+        "description": "Citrus and warm",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612772/u9sbjm1pf83by70ocy0n.webp",
+        "variants": {
+          "volume": 50,
+          "price": 2600
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Cancelled",
+        "return_request": "Pending"
+      },
+      "quantity": 1,
+      "price": 2600,
+      "_id": {
+        "$oid": "67445487ea74b8605feb5cc7"
+      }
+    },
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94768cc94c9957a6073f2"
+        },
+        "name": "Golden Hour",
+        "description": "Citrus and warm",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612772/u9sbjm1pf83by70ocy0n.webp",
+        "variants": {
+          "volume": 75,
+          "price": 3300
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Cancelled",
+        "return_request": "Pending"
+      },
+      "quantity": 3,
+      "price": 3300,
+      "_id": {
+        "$oid": "67445487ea74b8605feb5cc8"
+      }
+    }
+  ],
+  "sub_total": 12500,
+  "tax": 2250,
+  "discount_amount": 1000,
+  "total": 13750,
+  "payment_method": "online",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-11-25T10:42:16.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T10:42:46.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67445570ea74b8605feb5ec9"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94768cc94c9957a6073f2"
+        },
+        "name": "Golden Hour",
+        "description": "Citrus and warm",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612772/u9sbjm1pf83by70ocy0n.webp",
+        "variants": {
+          "volume": 50,
+          "price": 2600
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Approved",
+        "return_reason": "Damaged Product"
+      },
+      "quantity": 1,
+      "price": 4.8941711324126835,
+      "_id": {
+        "$oid": "67445570ea74b8605feb5eca"
+      }
+    },
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f17269ecd0a09120aa9049"
+        },
+        "name": "Calvin Klein",
+        "description": "Elegant, Luxurious, Professional",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727099495/lybkwerdkh71yke5wsqr.webp",
+        "variants": {
+          "volume": 50,
+          "price": 5499
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f1701eecd0a09120aa9024"
+          },
+          "brandName": "Calvin Klein",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727098909/pn3w7qwp56cpgeuhqofm.svg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Approved"
+      },
+      "quantity": 1,
+      "price": 10.351171945052824,
+      "_id": {
+        "$oid": "67445570ea74b8605feb5ecb"
+      }
+    }
+  ],
+  "sub_total": 8099,
+  "tax": 1457.82,
+  "discount_amount": 1000,
+  "total": 9556.82,
+  "payment_method": "online",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-25T10:46:08.764Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T12:10:19.569Z"
+  },
+  "__v": 0,
+  "delivery_charge": 0,
+  "payment_status": "pending"
+},
+{
+  "_id": {
+    "$oid": "674571f00120d92e20a150de"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f025adecd0a09120aa8d33"
+        },
+        "name": "Miss Dior Blooming Bouquet",
+        "description": "Delicate floral fragrance with peony and rose.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014314/zsk4jldbsvsxb7jct7di.webp",
+        "variants": {
+          "volume": 50,
+          "price": 5850
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f023f6ecd0a09120aa8d16"
+          },
+          "brandName": "Dior",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727013876/l5rpz9sbxmkyhrx3lwy0.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 5850,
+      "_id": {
+        "$oid": "674571f00120d92e20a150df"
+      }
+    }
+  ],
+  "sub_total": 5850,
+  "tax": 1053,
+  "discount_amount": 0,
+  "total": 6903,
+  "payment_method": "wallet",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-26T07:00:00.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T06:54:11.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6746d229d28e6ba6c76acbaa"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f027a0ecd0a09120aa8d5c"
+        },
+        "name": "Creed Royal Oud",
+        "description": "Rich, woody scent with oud and spices.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014812/l5ymdi8766x99yburpoo.webp",
+        "variants": {
+          "volume": 50,
+          "price": 11560
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 11560,
+      "_id": {
+        "$oid": "6746d229d28e6ba6c76acbab"
+      }
+    }
+  ],
+  "sub_total": 11560,
+  "tax": 2080.7999999999997,
+  "discount_amount": 0,
+  "total": 13640.8,
+  "payment_method": "wallet",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-27T08:02:49.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:03:53.319Z"
+  },
+  "__v": 0,
+  "delivery_charge": 0,
+  "payment_status": "pending"
+},
+{
+  "_id": {
+    "$oid": "674b5a0c0e201fd5a7374e51"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f9463bcc94c9957a6073dd"
+        },
+        "name": "Ocean Breeze",
+        "description": "Fresh and aquatic",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612469/g1vsb0wuyqgsddfyezlz.webp",
+        "variants": {
+          "volume": 100,
+          "price": 2805
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b916377919631d4cafb"
+          },
+          "name": "Designer",
+          "gender": "Women"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f170e2ecd0a09120aa9040"
+          },
+          "brandName": "Dolce & Gabbana",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727099106/sbazlknjsgjuk7yjmhyh.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 2805,
+      "_id": {
+        "$oid": "674b5a0c0e201fd5a7374e52"
+      }
+    }
+  ],
+  "sub_total": 2805,
+  "tax": 504.9,
+  "discount_amount": 0,
+  "delivery_charge": 0,
+  "total": 3309.9,
+  "payment_method": "online",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-30T18:31:40.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T18:33:51.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674b5b380e201fd5a7374f3f"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94b2fcc94c9957a60742a"
+        },
+        "name": "Citrus Grove",
+        "description": "Zesty and fresh",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727877225/r0xxts48dpo8bnei9a5a.webp",
+        "variants": {
+          "volume": 50,
+          "price": 1870
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f238fbecd0a09120aa90bd"
+          },
+          "name": "Eternity Eau de Parfum",
+          "gender": "Men"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 1870,
+      "_id": {
+        "$oid": "674b5b380e201fd5a7374f40"
+      }
+    }
+  ],
+  "sub_total": 1870,
+  "tax": 336.59999999999997,
+  "discount_amount": 0,
+  "delivery_charge": 50,
+  "total": 2306.6,
+  "payment_method": "COD",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-11-30T18:36:40.585Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T06:15:42.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d7763ca7007746ac170bc"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f027a0ecd0a09120aa8d5c"
+        },
+        "name": "Creed Royal Oud",
+        "description": "Rich, woody scent with oud and spices.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014812/l5ymdi8766x99yburpoo.webp",
+        "variants": {
+          "volume": 50,
+          "price": 11560
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 11560,
+      "_id": {
+        "$oid": "674d7763ca7007746ac170bd"
+      }
+    }
+  ],
+  "sub_total": 11560,
+  "tax": 2080.7999999999997,
+  "discount_amount": 0,
+  "delivery_charge": 0,
+  "total": 13640.8,
+  "payment_method": "wallet",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-02T09:01:23.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T06:17:25.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d9b0773a86ffd16e176bc"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f23e2aa92f2ffa2d213471"
+        },
+        "name": "Lacoste",
+        "description": "Woodie fragrance",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727151654/zpe0gt4esrii7e3tbcsn.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3799
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b496377919631d4caf3"
+          },
+          "name": "Niche",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 3799,
+      "_id": {
+        "$oid": "674d9b0773a86ffd16e176bd"
+      }
+    }
+  ],
+  "sub_total": 3799,
+  "tax": 683.8199999999999,
+  "discount_amount": 0,
+  "delivery_charge": 0,
+  "total": 4482.82,
+  "payment_method": "online",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-02T11:33:29.564Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T06:17:10.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ea1dd51bf987507624d60"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94768cc94c9957a6073f2"
+        },
+        "name": "Golden Hour",
+        "description": "Citrus and warm",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612772/u9sbjm1pf83by70ocy0n.webp",
+        "variants": {
+          "volume": 50,
+          "price": 2210
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 2210,
+      "_id": {
+        "$oid": "674ea1dd51bf987507624d61"
+      }
+    }
+  ],
+  "sub_total": 2210,
+  "tax": 397.8,
+  "discount_amount": 0,
+  "delivery_charge": 50,
+  "total": 2657.8,
+  "payment_method": "wallet",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-03T06:14:53.163Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T06:16:56.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674eedb3555d3159aaab2bdf"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f027a0ecd0a09120aa8d5c"
+        },
+        "name": "Creed Royal Oud",
+        "description": "Rich, woody scent with oud and spices.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014812/l5ymdi8766x99yburpoo.webp",
+        "variants": {
+          "volume": 50,
+          "price": 11560
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Cancelled",
+        "return_request": "Cancelled"
+      },
+      "quantity": 3,
+      "price": 11560,
+      "_id": {
+        "$oid": "674eedb3555d3159aaab2be0"
+      }
+    }
+  ],
+  "sub_total": 11560,
+  "tax": 2080.7999999999997,
+  "discount_amount": 1500,
+  "delivery_charge": 0,
+  "total": 39422.4,
+  "payment_method": "online",
+  "payment_status": "pending",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-12-03T11:38:28.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T11:49:29.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ef16c555d3159aaab2e5d"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f0233fecd0a09120aa8d09"
+        },
+        "name": "Tom Ford Black Orchid",
+        "description": "Rich, dark floral with spices and chocolate.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1728130002/vw8mqgdn4b2jkkpyodrl.webp",
+        "variants": {
+          "volume": 50,
+          "price": 6700
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bd16377919631d4cb03"
+          },
+          "name": "Fresh",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 6700,
+      "_id": {
+        "$oid": "674ef16c555d3159aaab2e5e"
+      }
+    }
+  ],
+  "sub_total": 6700,
+  "tax": 1206,
+  "discount_amount": 790.6,
+  "delivery_charge": 0,
+  "total": 7115.4,
+  "payment_method": "wallet",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-03T11:54:20.103Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T12:26:11.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674efdda9ed214ffd0961b89"
+  },
+  "user": {
+    "$oid": "674efcbf9ed214ffd0961a68"
+  },
+  "shipping_address": {
+    "name": "mujeeb",
+    "mobile": 7559869642,
+    "address": "abc street",
+    "city": "new town",
+    "state": "Karnataka",
+    "postal_code": "123456",
+    "landmark": "near abc park"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f025adecd0a09120aa8d33"
+        },
+        "name": "Miss Dior Blooming Bouquet",
+        "description": "Delicate floral fragrance with peony and rose.",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014314/zsk4jldbsvsxb7jct7di.webp",
+        "variants": {
+          "volume": 50,
+          "price": 5850
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f023f6ecd0a09120aa8d16"
+          },
+          "brandName": "Dior",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727013876/l5rpz9sbxmkyhrx3lwy0.png"
+        },
+        "cancel_request": "Cancelled",
+        "return_request": "Pending"
+      },
+      "quantity": 5,
+      "price": 5850,
+      "_id": {
+        "$oid": "674efdda9ed214ffd0961b8a"
+      }
+    }
+  ],
+  "sub_total": 29250,
+  "tax": 5265,
+  "discount_amount": 1500,
+  "delivery_charge": 0,
+  "total": 34515,
+  "payment_method": "online",
+  "payment_status": "pending",
+  "order_status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-12-03T12:47:22.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T12:48:02.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674efe809ed214ffd0961c2a"
+  },
+  "user": {
+    "$oid": "674efcbf9ed214ffd0961a68"
+  },
+  "shipping_address": {
+    "name": "mujeeb",
+    "mobile": 7559869642,
+    "address": "abc street",
+    "city": "new town",
+    "state": "Karnataka",
+    "postal_code": "123456",
+    "landmark": "near abc park"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f23e2aa92f2ffa2d213471"
+        },
+        "name": "Lacoste",
+        "description": "Woodie fragrance",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727151654/zpe0gt4esrii7e3tbcsn.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3799
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01b496377919631d4caf3"
+          },
+          "name": "Niche",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01bb86377919631d4caff"
+          },
+          "brandName": "Gucci",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Return Approved",
+        "return_reason": "Wrong Item Delivered"
+      },
+      "quantity": 1,
+      "price": 1500,
+      "_id": {
+        "$oid": "674efe809ed214ffd0961c2b"
+      }
+    }
+  ],
+  "sub_total": 3799,
+  "tax": 683.8199999999999,
+  "discount_amount": 1500,
+  "delivery_charge": 0,
+  "total": 4482.82,
+  "payment_method": "online",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-03T12:50:08.330Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T12:10:19.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675439a021b3c793ada7099d"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f945c3cc94c9957a6073b0"
+        },
+        "name": "Amber Mist",
+        "description": "Warm and amber",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612353/zmzapgeuqdkligs9p5bw.webp",
+        "variants": {
+          "volume": 100,
+          "price": 2552
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01c096377919631d4cb0a"
+          },
+          "brandName": "Creed",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 2552,
+      "_id": {
+        "$oid": "675439a021b3c793ada7099e"
+      }
+    }
+  ],
+  "sub_total": 2552,
+  "tax": 459.35999999999996,
+  "discount_amount": 0,
+  "delivery_charge": 0,
+  "total": 3011.36,
+  "payment_method": "wallet",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-07T12:03:44.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T12:04:23.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675565ab40f252c20c980b8d"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94768cc94c9957a6073f2"
+        },
+        "name": "Golden Hour",
+        "description": "Citrus and warm",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612772/u9sbjm1pf83by70ocy0n.webp",
+        "variants": {
+          "volume": 50,
+          "price": 2210
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b206377919631d4caef"
+          },
+          "brandName": "Chanel",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 2210,
+      "_id": {
+        "$oid": "675565ab40f252c20c980b8e"
+      }
+    }
+  ],
+  "sub_total": 2210,
+  "tax": 397.8,
+  "discount_amount": 500,
+  "delivery_charge": 50,
+  "total": 2157.8,
+  "payment_method": "COD",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-08T09:23:55.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T09:24:49.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67558a2640f252c20c981029"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "mujib rehman",
+    "mobile": 9876543120,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Kerala",
+    "postal_code": "679357",
+    "landmark": "Near abc park12"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f94978cc94c9957a607415"
+        },
+        "name": "Rose Petals",
+        "description": "Delicate rose notes",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727613298/azdsdkykdiswxrrhxvvq.webp",
+        "variants": {
+          "volume": 100,
+          "price": 4700
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f01bec6377919631d4cb06"
+          },
+          "name": "Luxury",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f1701eecd0a09120aa9024"
+          },
+          "brandName": "Calvin Klein",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727098909/pn3w7qwp56cpgeuhqofm.svg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 4700,
+      "_id": {
+        "$oid": "67558a2640f252c20c98102a"
+      }
+    }
+  ],
+  "sub_total": 4700,
+  "tax": 846,
+  "discount_amount": 500,
+  "delivery_charge": 0,
+  "total": 5546,
+  "payment_method": "wallet",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-08T11:59:34.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T05:15:24.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67567c6d7766489f16448cc9"
+  },
+  "user": {
+    "$oid": "67558b1b40f252c20c981044"
+  },
+  "shipping_address": {
+    "name": "Muhammed Fasil M",
+    "mobile": 7025200217,
+    "address": "abcd addrss",
+    "city": "New town",
+    "state": "Karnataka",
+    "postal_code": "679522",
+    "landmark": "Near abc park"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f9444fcc94c9957a607362"
+        },
+        "name": "Mystic Woods",
+        "description": "Woody and earthy",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727611979/lookg1eiaigy9qxwfxio.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3600
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b6c6377919631d4caf7"
+          },
+          "brandName": "Tom Ford",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 3600,
+      "_id": {
+        "$oid": "67567c6d7766489f16448cca"
+      }
+    }
+  ],
+  "sub_total": 3600,
+  "tax": 648,
+  "discount_amount": 500,
+  "delivery_charge": 0,
+  "total": 3748,
+  "payment_method": "online",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-09T05:13:19.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T05:15:13.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6756b99503f171e3cd5367fa"
+  },
+  "user": {
+    "$oid": "67567fef5d52195090034fdf"
+  },
+  "shipping_address": {
+    "name": "Arjun k",
+    "mobile": 1234567891,
+    "address": "abcd address",
+    "city": "Old Town",
+    "state": "Tamil Nadu",
+    "postal_code": "679358",
+    "landmark": "Near abc School"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "6739e312e52b32681d2c0e0e"
+        },
+        "name": "Eternity Eau de Parfum for Men",
+        "description": "This is a classic, sophisticated fragrance with a floral base",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1731846928/ggt04bxkdymyeifwg8ny.webp",
+        "variants": {
+          "volume": 100,
+          "price": 6299.1
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f1701eecd0a09120aa9024"
+          },
+          "brandName": "Calvin Klein",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727098909/pn3w7qwp56cpgeuhqofm.svg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 6299.1,
+      "_id": {
+        "$oid": "6756b99503f171e3cd5367fb"
+      }
+    }
+  ],
+  "sub_total": 6299.1,
+  "tax": 1133.838,
+  "discount_amount": 1000,
+  "delivery_charge": 0,
+  "total": 6432.94,
+  "payment_method": "online",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-09T09:34:14.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T09:36:37.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6756fc19da5975e80e1f0a7b"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "shipping_address": {
+    "name": "Mujeeb Rahman",
+    "mobile": 9961605351,
+    "address": "Alipparamba PO, Alipparamba, Malappuram.",
+    "city": "Perinthalmanna",
+    "state": "Madhya Pradesh",
+    "postal_code": "679357",
+    "landmark": "Akshaya Center pallikkunnu"
+  },
+  "items": [
+    {
+      "product": {
+        "_id": {
+          "$oid": "66f9444fcc94c9957a607362"
+        },
+        "name": "Mystic Woods",
+        "description": "Woody and earthy",
+        "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727611979/lookg1eiaigy9qxwfxio.webp",
+        "variants": {
+          "volume": 100,
+          "price": 3600
+        },
+        "category": {
+          "_id": {
+            "$oid": "66f0193b6377919631d4cae9"
+          },
+          "name": "Luxury/High-End Perfumes",
+          "gender": "Unisex"
+        },
+        "brand": {
+          "_id": {
+            "$oid": "66f01b6c6377919631d4caf7"
+          },
+          "brandName": "Tom Ford",
+          "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg"
+        },
+        "cancel_request": "Pending",
+        "return_request": "Delivered"
+      },
+      "quantity": 1,
+      "price": 3600,
+      "_id": {
+        "$oid": "6756fc19da5975e80e1f0a7c"
+      }
+    }
+  ],
+  "sub_total": 3600,
+  "tax": 648,
+  "discount_amount": 0,
+  "delivery_charge": 0,
+  "total": 4248,
+  "payment_method": "wallet",
+  "payment_status": "pending",
+  "order_status": "Delivered",
+  "createdAt": {
+    "$date": "2024-12-09T14:18:01.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T14:18:56.969Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6719e3486ff42a80f2ce1a94"
+  },
+  "user_id": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "product_ids": [
+    {
+      "$oid": "66f0233fecd0a09120aa8d09"
+    },
+    {
+      "$oid": "66f0233fecd0a09120aa8d09"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-24T06:03:52.846Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T14:14:58.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b2a88a6e144bd5dd397b7"
+  },
+  "user_id": {
+    "$oid": "670775480d7c2aead31eacf1"
+  },
+  "product_ids": [],
+  "createdAt": {
+    "$date": "2024-10-25T05:20:08.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T05:20:20.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672246adcdb51d75de41d13c"
+  },
+  "user_id": {
+    "$oid": "66ed38b50d1a3ec494126c62"
+  },
+  "product_ids": [],
+  "createdAt": {
+    "$date": "2024-10-30T14:46:05.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T14:46:05.047Z"
+  },
+  "__v": 0
+}]

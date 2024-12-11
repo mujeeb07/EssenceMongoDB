@@ -1,0 +1,1459 @@
+[{
+  "_id": {
+    "$oid": "66f0233fecd0a09120aa8d09"
+  },
+  "category": {
+    "$oid": "66f01bd16377919631d4cb03"
+  },
+  "brand": {
+    "$oid": "66f01b206377919631d4caef"
+  },
+  "name": "Tom Ford Black Orchid",
+  "description": "Rich, dark floral with spices and chocolate.",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": 29,
+      "price": 6700,
+      "_id": {
+        "$oid": "674db9bdc25087324a28abfe"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 10190,
+      "_id": {
+        "$oid": "674db9bdc25087324a28abff"
+      }
+    },
+    {
+      "volume": 100,
+      "stock": 15,
+      "price": 13599,
+      "_id": {
+        "$oid": "674db9bdc25087324a28ac00"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1728130002/vw8mqgdn4b2jkkpyodrl.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1728130004/zeuhimqoy5dpdrf9xmq6.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1728130004/mw3ydz2o6alvscqjggsr.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1728130004/yvouum0ihuzrn4nzfgr3.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-22T14:01:35.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T11:54:20.115Z"
+  },
+  "__v": 16
+},
+{
+  "_id": {
+    "$oid": "66f025adecd0a09120aa8d33"
+  },
+  "category": {
+    "$oid": "66f0193b6377919631d4cae9"
+  },
+  "brand": {
+    "$oid": "66f023f6ecd0a09120aa8d16"
+  },
+  "name": "Miss Dior Blooming Bouquet",
+  "description": "Delicate floral fragrance with peony and rose.",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": 15,
+      "price": 5850,
+      "_id": {
+        "$oid": "6721c3a1d7392cb22d5e4be2"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 8775,
+      "_id": {
+        "$oid": "6721c3a1d7392cb22d5e4be3"
+      }
+    },
+    {
+      "volume": 100,
+      "stock": 10,
+      "price": 11700,
+      "_id": {
+        "$oid": "6721c3a1d7392cb22d5e4be4"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014314/zsk4jldbsvsxb7jct7di.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014315/pla2czd5jp8dvvck94r4.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014315/xryfedfivapbfetepwnt.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014315/wng0tf9whnworyptunjl.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014315/rlcesic0hb7z4i4xlrei.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-22T14:11:57.575Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T12:47:23.016Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66f026caecd0a09120aa8d46"
+  },
+  "category": {
+    "$oid": "66f01bec6377919631d4cb06"
+  },
+  "brand": {
+    "$oid": "66f01bb86377919631d4caff"
+  },
+  "name": "Gucci Mémoire d’une Odeur",
+  "description": "Unique, nostalgic fragrance with chamomile and jasmine.",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": 7,
+      "price": 6099,
+      "_id": {
+        "$oid": "671347dc6b0583ec6b8738e9"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 9199,
+      "_id": {
+        "$oid": "671347dc6b0583ec6b8738ea"
+      }
+    },
+    {
+      "volume": 100,
+      "stock": 15,
+      "price": 12150,
+      "_id": {
+        "$oid": "671347dc6b0583ec6b8738eb"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014596/hpej2meotebwa1ihtcln.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014599/zn6rs2zvvjebnrqm0dth.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014599/oqmxwghrnjpj93goxjui.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014599/vkx7k3h0uwzusqzk057y.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014599/q6nzkb7iozdhtqgyqqdc.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-22T14:16:42.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T19:19:52.127Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66f027a0ecd0a09120aa8d5c"
+  },
+  "category": {
+    "$oid": "66f0193b6377919631d4cae9"
+  },
+  "brand": {
+    "$oid": "66f01c096377919631d4cb0a"
+  },
+  "name": "Creed Royal Oud",
+  "description": "Rich, woody scent with oud and spices.",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": 10,
+      "price": 14450,
+      "_id": {
+        "$oid": "6721c3d3d6a476e5f140ae1f"
+      },
+      "offer_discount_amount": 2890,
+      "sale_price_after_discount": 11560
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 21699,
+      "_id": {
+        "$oid": "6721c3d3d6a476e5f140ae20"
+      },
+      "offer_discount_amount": 4339.8,
+      "sale_price_after_discount": 17359.2
+    },
+    {
+      "volume": 100,
+      "stock": 10,
+      "price": 28899,
+      "_id": {
+        "$oid": "6721c3d3d6a476e5f140ae21"
+      },
+      "offer_discount_amount": 5779.8,
+      "sale_price_after_discount": 23119.2
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727014812/l5ymdi8766x99yburpoo.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014814/arpoeiw1vamzdnmgixem.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014814/qbsb9buf4szw9kuiilsd.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014814/pm4mkoh7begqlzf0kzbb.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727014813/n5ec7o9v0kyrqo6vnbrz.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-22T14:20:16.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T11:38:28.666Z"
+  },
+  "__v": 1,
+  "product_offer": {
+    "offer_name": "Essence Exclusive",
+    "offer_discount_percentage": 20,
+    "offer_start_date": {
+      "$date": "2024-11-05T00:00:00.000Z"
+    },
+    "offer_expire_date": {
+      "$date": "2024-12-12T00:00:00.000Z"
+    },
+    "offer_status": true,
+    "_id": {
+      "$oid": "674ea0ef51bf987507624bdc"
+    },
+    "createdAt": {
+      "$date": "2024-12-03T06:10:55.787Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-03T06:10:55.787Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66f17269ecd0a09120aa9049"
+  },
+  "category": {
+    "$oid": "66f0193b6377919631d4cae9"
+  },
+  "brand": {
+    "$oid": "66f1701eecd0a09120aa9024"
+  },
+  "name": "Calvin Klein",
+  "description": "Elegant, Luxurious, Professional",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": -2,
+      "price": 5499,
+      "_id": {
+        "$oid": "6735fdaa33ed99c5c91af7bc"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 8249,
+      "_id": {
+        "$oid": "6735fdaa33ed99c5c91af7bd"
+      }
+    },
+    {
+      "volume": 100,
+      "stock": 10,
+      "price": 10999,
+      "_id": {
+        "$oid": "6735fdaa33ed99c5c91af7be"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727099495/lybkwerdkh71yke5wsqr.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727099496/nsqv7qqpxyvhpmkvdcue.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727099496/br1dc8qle3cscp35c858.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727099496/qaqlxuk74xxce5sl7kbw.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727099496/zthbuiaiaaqim0x7c7u8.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-23T13:51:37.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T13:20:08.274Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "66f23e2aa92f2ffa2d213471"
+  },
+  "category": {
+    "$oid": "66f01b496377919631d4caf3"
+  },
+  "brand": {
+    "$oid": "66f01bb86377919631d4caff"
+  },
+  "name": "Lacoste",
+  "description": "Woodie fragrance",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 2,
+      "price": 3799,
+      "_id": {
+        "$oid": "66f23e2aa92f2ffa2d213472"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 2799,
+      "_id": {
+        "$oid": "66f23e2aa92f2ffa2d213473"
+      }
+    },
+    {
+      "volume": 50,
+      "stock": 7,
+      "price": 1999,
+      "_id": {
+        "$oid": "66f23e2aa92f2ffa2d213474"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727151654/zpe0gt4esrii7e3tbcsn.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727151656/tatnmnqhwi8htchmyqzp.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727151655/rvrjysmvo5il3e2j5vpa.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727151655/hn37m6p03bcb1qjcgcio.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727151656/tbxqwhbgv5m3chchznxw.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-24T04:20:58.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T13:00:18.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f7859826cc2f4382d3b290"
+  },
+  "category": {
+    "$oid": "66f01b496377919631d4caf3"
+  },
+  "brand": {
+    "$oid": "66f01b6c6377919631d4caf7"
+  },
+  "name": "Lacoste",
+  "description": "Premium Fragrance",
+  "variants": [
+    {
+      "volume": 75,
+      "stock": 32,
+      "price": 2899,
+      "_id": {
+        "$oid": "6731e56d580b047dd5fe06f7"
+      },
+      "offer_discount_amount": 289.9,
+      "sale_price_after_discount": 2609.1
+    },
+    {
+      "volume": 100,
+      "stock": 0,
+      "price": 3999,
+      "_id": {
+        "$oid": "6731e56d580b047dd5fe06f8"
+      },
+      "offer_discount_amount": 399.9,
+      "sale_price_after_discount": 3599.1
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727497622/v5luuhnelqjrhz4wrcj6.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727497623/ix03zo4t5pwwxef3pw2w.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727497623/hijr6sg5vmzf6xpd1ofm.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727497624/z0g4jpzrhs81it5yhhtw.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727497623/h5mft0fruhspt6c02dxs.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-28T04:27:04.568Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T05:54:48.960Z"
+  },
+  "__v": 2,
+  "product_offer": {
+    "offer_name": "Monthly Savings!",
+    "offer_discount_percentage": 10,
+    "offer_start_date": {
+      "$date": "2024-11-30T00:00:00.000Z"
+    },
+    "offer_expire_date": {
+      "$date": "2024-12-19T00:00:00.000Z"
+    },
+    "offer_status": true,
+    "_id": {
+      "$oid": "674aa8a8292f7f1d8e113fb1"
+    },
+    "createdAt": {
+      "$date": "2024-11-30T05:54:48.960Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-30T05:54:48.960Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66f943dccc94c9957a60735b"
+  },
+  "category": {
+    "$oid": "66f01b916377919631d4cafb"
+  },
+  "brand": {
+    "$oid": "66f01b206377919631d4caef"
+  },
+  "name": "Divine Aura",
+  "description": "Floral and fresh",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 4,
+      "price": 3200,
+      "_id": {
+        "$oid": "66f943dccc94c9957a60735c"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 2800,
+      "_id": {
+        "$oid": "66f943dccc94c9957a60735d"
+      }
+    },
+    {
+      "volume": 50,
+      "stock": 15,
+      "price": 2200,
+      "_id": {
+        "$oid": "66f943dccc94c9957a60735e"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727611864/w6oodmsrm9paqaskuopa.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727611866/qdkywdhsnwcatiwrlb5z.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727611866/atcrngj76eqsf1qzi2r5.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727611865/f3gswgjdauujxribsevw.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727611866/ta0czibl1iqkkdl38rkz.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:11:08.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T18:20:31.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f9444fcc94c9957a607362"
+  },
+  "category": {
+    "$oid": "66f0193b6377919631d4cae9"
+  },
+  "brand": {
+    "$oid": "66f01b6c6377919631d4caf7"
+  },
+  "name": "Mystic Woods",
+  "description": "Woody and earthy",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 4,
+      "price": 3600,
+      "_id": {
+        "$oid": "66f9444fcc94c9957a607363"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 3100,
+      "_id": {
+        "$oid": "66f9444fcc94c9957a607364"
+      }
+    },
+    {
+      "volume": 50,
+      "stock": 15,
+      "price": 2500,
+      "_id": {
+        "$oid": "66f9444fcc94c9957a607365"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727611979/lookg1eiaigy9qxwfxio.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727611981/np5fmqtvdhzr625nsnpn.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727611981/rwhaxnqybzfjmdssry6o.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727611981/km75nclpezwmxg2wazfg.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727611981/ug2ixr5yyamghmmfdxad.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:13:03.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T14:18:01.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f9450dcc94c9957a6073a9"
+  },
+  "category": {
+    "$oid": "66f238fbecd0a09120aa90bd"
+  },
+  "brand": {
+    "$oid": "66f01bb86377919631d4caff"
+  },
+  "name": "Velvet Night",
+  "description": "Bold and sensual",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": 14,
+      "price": 2800,
+      "_id": {
+        "$oid": "673567964254fd8de48a5231"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 3600,
+      "_id": {
+        "$oid": "673567964254fd8de48a5232"
+      }
+    },
+    {
+      "volume": 100,
+      "stock": 10,
+      "price": 4100,
+      "_id": {
+        "$oid": "673567964254fd8de48a5233"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612169/kl2x0m7wjfh1pog5qgb0.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612171/tv7pz6szc8yejpnpf7qt.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612170/xepfqmgaskwsyjdflv5k.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612170/vcddkfyb7qchghounqke.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612171/gw9fjgshmyf09jv1jfvw.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:16:13.012Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T03:59:29.775Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66f945c3cc94c9957a6073b0"
+  },
+  "category": {
+    "$oid": "66f01bec6377919631d4cb06"
+  },
+  "brand": {
+    "$oid": "66f01c096377919631d4cb0a"
+  },
+  "name": "Amber Mist",
+  "description": "Warm and amber",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 8,
+      "price": 2900,
+      "_id": {
+        "$oid": "66f945c3cc94c9957a6073b1"
+      },
+      "offer_discount_amount": 348,
+      "sale_price_after_discount": 2552
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 2500,
+      "_id": {
+        "$oid": "66f945c3cc94c9957a6073b2"
+      },
+      "offer_discount_amount": 300,
+      "sale_price_after_discount": 2200
+    },
+    {
+      "volume": 50,
+      "stock": 8,
+      "price": 1900,
+      "_id": {
+        "$oid": "66f945c3cc94c9957a6073b3"
+      },
+      "offer_discount_amount": 228,
+      "sale_price_after_discount": 1672
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612353/zmzapgeuqdkligs9p5bw.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612354/iu0f4is7cggoctaw02iu.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612354/kes8tfufmyvbmolrlwry.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612354/ewq4nxdtjllzzwzz06pg.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612354/fzljdgzhmulkh3pbm716.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:19:15.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T12:03:45.020Z"
+  },
+  "__v": 0,
+  "product_offer": {
+    "offer_name": "year ending12345",
+    "offer_discount_percentage": 12,
+    "offer_start_date": {
+      "$date": "2024-11-14T00:00:00.000Z"
+    },
+    "offer_expire_date": {
+      "$date": "2024-12-05T00:00:00.000Z"
+    },
+    "offer_status": true,
+    "_id": {
+      "$oid": "674ea11751bf987507624bf9"
+    },
+    "createdAt": {
+      "$date": "2024-12-03T06:11:35.563Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-03T06:11:35.563Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66f9463bcc94c9957a6073dd"
+  },
+  "category": {
+    "$oid": "66f01b916377919631d4cafb"
+  },
+  "brand": {
+    "$oid": "66f170e2ecd0a09120aa9040"
+  },
+  "name": "Ocean Breeze",
+  "description": "Fresh and aquatic",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 7,
+      "price": 3300,
+      "_id": {
+        "$oid": "66f9463bcc94c9957a6073de"
+      },
+      "offer_discount_amount": 495,
+      "sale_price_after_discount": 2805
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 2900,
+      "_id": {
+        "$oid": "66f9463bcc94c9957a6073df"
+      },
+      "offer_discount_amount": 435,
+      "sale_price_after_discount": 2465
+    },
+    {
+      "volume": 50,
+      "stock": 15,
+      "price": 2300,
+      "_id": {
+        "$oid": "66f9463bcc94c9957a6073e0"
+      },
+      "offer_discount_amount": 345,
+      "sale_price_after_discount": 1955
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612469/g1vsb0wuyqgsddfyezlz.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612470/omicocwkq1sorm4ozns3.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612471/oz44vkbfmvkvv9ejmqij.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612470/jowwmox5k4eitrkiod7y.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612470/gmfxwdkjq1fftuftblpt.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:21:15.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T06:11:59.954Z"
+  },
+  "__v": 0,
+  "product_offer": {
+    "offer_name": "Season limited offer",
+    "offer_discount_percentage": 15,
+    "offer_start_date": {
+      "$date": "2024-11-05T00:00:00.000Z"
+    },
+    "offer_expire_date": {
+      "$date": "2024-12-10T00:00:00.000Z"
+    },
+    "offer_status": true,
+    "_id": {
+      "$oid": "674ea12f51bf987507624c17"
+    },
+    "createdAt": {
+      "$date": "2024-12-03T06:11:59.954Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-03T06:11:59.954Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66f9469bcc94c9957a6073e4"
+  },
+  "category": {
+    "$oid": "66f01bec6377919631d4cb06"
+  },
+  "brand": {
+    "$oid": "66f1701eecd0a09120aa9024"
+  },
+  "name": "Blossom Bliss",
+  "description": "Sweet floral notes",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 4,
+      "price": 3100,
+      "_id": {
+        "$oid": "66f9469bcc94c9957a6073e5"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 2700,
+      "_id": {
+        "$oid": "66f9469bcc94c9957a6073e6"
+      }
+    },
+    {
+      "volume": 50,
+      "stock": 10,
+      "price": 2100,
+      "_id": {
+        "$oid": "66f9469bcc94c9957a6073e7"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612566/wx4rrithurfcc0hd6dct.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612569/sxkqoapf0jl0o4zo9oca.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612567/r94ckt8t0qwvbss2xmzy.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612568/ygcxylnmmzneobo3ky5z.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612568/x5csmom42qhztl15hsgn.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:22:51.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T04:26:21.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f94709cc94c9957a6073eb"
+  },
+  "category": {
+    "$oid": "66f238fbecd0a09120aa90bd"
+  },
+  "brand": {
+    "$oid": "66f023f6ecd0a09120aa8d16"
+  },
+  "name": "Spice Trail",
+  "description": "Spicy and oriental",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 6,
+      "price": 3500,
+      "_id": {
+        "$oid": "66f94709cc94c9957a6073ec"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 3100,
+      "_id": {
+        "$oid": "66f94709cc94c9957a6073ed"
+      }
+    },
+    {
+      "volume": 50,
+      "stock": 10,
+      "price": 2400,
+      "_id": {
+        "$oid": "66f94709cc94c9957a6073ee"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612677/qnuychbgf1ejbwe9ddms.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612679/yeja6o5nf6jysznfc2qb.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612678/vi01jdnwv8uhzliegw8z.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612678/vnp5bbsw2qaalnfy830p.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612679/xiwtdmh1kjtmrddm6krx.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:24:41.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T19:20:51.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f94768cc94c9957a6073f2"
+  },
+  "category": {
+    "$oid": "66f01bec6377919631d4cb06"
+  },
+  "brand": {
+    "$oid": "66f01b206377919631d4caef"
+  },
+  "name": "Golden Hour",
+  "description": "Citrus and warm",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": 1,
+      "price": 2600,
+      "_id": {
+        "$oid": "6756e11b772eaab1adff235e"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 3300,
+      "_id": {
+        "$oid": "6756e11b772eaab1adff235f"
+      }
+    },
+    {
+      "volume": 100,
+      "stock": 30,
+      "price": 3800,
+      "_id": {
+        "$oid": "6756e11b772eaab1adff2360"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612772/u9sbjm1pf83by70ocy0n.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612774/qzrkcklrrjzqk8hsaeli.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612774/evht55p7xszbyr2anifn.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612774/bapsz2f8pivuw02quxxn.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612774/ewsvc8vbjz94pddrvat4.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:26:16.510Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T12:22:51.631Z"
+  },
+  "__v": 3,
+  "product_offer": {
+    "offer_name": "Seasonal offer",
+    "offer_discount_percentage": 15,
+    "offer_start_date": {
+      "$date": "2024-11-26T00:00:00.000Z"
+    },
+    "offer_expire_date": {
+      "$date": "2024-12-20T00:00:00.000Z"
+    },
+    "offer_status": true,
+    "_id": {
+      "$oid": "674ea14051bf987507624c23"
+    },
+    "createdAt": {
+      "$date": "2024-12-03T06:12:16.288Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-03T06:12:16.288Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66f947c6cc94c9957a6073f9"
+  },
+  "category": {
+    "$oid": "66f01b496377919631d4caf3"
+  },
+  "brand": {
+    "$oid": "66f01c096377919631d4cb0a"
+  },
+  "name": "Midnight Bloom",
+  "description": "Mysterious floral scent",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 7,
+      "price": 4000,
+      "_id": {
+        "$oid": "66f947c6cc94c9957a6073fa"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 3500,
+      "_id": {
+        "$oid": "66f947c6cc94c9957a6073fb"
+      }
+    },
+    {
+      "volume": 50,
+      "stock": 10,
+      "price": 2700,
+      "_id": {
+        "$oid": "66f947c6cc94c9957a6073fc"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612867/gwrmtrztjlkhslutr0e6.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612869/e5jkxwtwdlho1dqajkoo.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612868/e7kaowblxhfxgq7gctwv.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612868/y1jng2g2mmczchhyyhj2.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612868/pfigspubvodukqhtrzli.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:27:50.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T18:58:36.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f94838cc94c9957a607400"
+  },
+  "category": {
+    "$oid": "66f238fbecd0a09120aa90bd"
+  },
+  "brand": {
+    "$oid": "66f01b6c6377919631d4caf7"
+  },
+  "name": "Sandalwood Serenity",
+  "description": "Smooth and woody",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": 9,
+      "price": 2500,
+      "_id": {
+        "$oid": "6739868f26d3ada56a140118"
+      },
+      "offer_discount_amount": 250,
+      "sale_price_after_discount": 2250
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 3200,
+      "_id": {
+        "$oid": "6739868f26d3ada56a140119"
+      },
+      "offer_discount_amount": 320,
+      "sale_price_after_discount": 2880
+    },
+    {
+      "volume": 100,
+      "stock": 4,
+      "price": 3700,
+      "_id": {
+        "$oid": "6739868f26d3ada56a14011a"
+      },
+      "offer_discount_amount": 370,
+      "sale_price_after_discount": 3330
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727612979/po7mwiusmutyktylhpgc.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612981/bjjsro7wtqugpj0rdjsz.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612981/egq9zolfunwwrm7vu7hj.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612981/mevfbt1b9ayfnz2qbnaj.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727612982/x61aecdzqlayi6xnk3mr.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:29:44.566Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T06:12:45.014Z"
+  },
+  "__v": 1,
+  "product_offer": {
+    "offer_name": "Heavenly Deals",
+    "offer_discount_percentage": 10,
+    "offer_start_date": {
+      "$date": "2024-11-05T00:00:00.000Z"
+    },
+    "offer_expire_date": {
+      "$date": "2024-12-21T00:00:00.000Z"
+    },
+    "offer_status": true,
+    "_id": {
+      "$oid": "674ea15d51bf987507624c51"
+    },
+    "createdAt": {
+      "$date": "2024-12-03T06:12:45.014Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-03T06:12:45.014Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66f948f5cc94c9957a60740e"
+  },
+  "category": {
+    "$oid": "66f238fbecd0a09120aa90bd"
+  },
+  "brand": {
+    "$oid": "66f01b206377919631d4caef"
+  },
+  "name": "Lavender Dream",
+  "description": "Soft lavender aroma",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 0,
+      "price": 6200,
+      "_id": {
+        "$oid": "66f948f5cc94c9957a60740f"
+      },
+      "offer_discount_amount": 620,
+      "sale_price_after_discount": 5580
+    },
+    {
+      "volume": 75,
+      "stock": 4,
+      "price": 4599,
+      "_id": {
+        "$oid": "66f948f5cc94c9957a607410"
+      },
+      "offer_discount_amount": 459.9,
+      "sale_price_after_discount": 4139.1
+    },
+    {
+      "volume": 50,
+      "stock": 5,
+      "price": 3800,
+      "_id": {
+        "$oid": "66f948f5cc94c9957a607411"
+      },
+      "offer_discount_amount": 380,
+      "sale_price_after_discount": 3420
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727613170/wrc2hbzh5t4v7egp1yf6.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613171/tzdsla2nwymeo3bgwgdh.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613171/vrvjqrbcdikttrsiax1b.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613171/tfcp4ark8xjccg499plz.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613171/mzpthc5dnwg2vxjex9mt.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:32:53.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T06:13:04.351Z"
+  },
+  "__v": 0,
+  "product_offer": {
+    "offer_name": "Fragrance Flash Sale",
+    "offer_discount_percentage": 10,
+    "offer_start_date": {
+      "$date": "2024-11-05T00:00:00.000Z"
+    },
+    "offer_expire_date": {
+      "$date": "2024-12-25T00:00:00.000Z"
+    },
+    "offer_status": true,
+    "_id": {
+      "$oid": "674ea17051bf987507624c6d"
+    },
+    "createdAt": {
+      "$date": "2024-12-03T06:13:04.351Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-03T06:13:04.351Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66f94978cc94c9957a607415"
+  },
+  "category": {
+    "$oid": "66f01bec6377919631d4cb06"
+  },
+  "brand": {
+    "$oid": "66f1701eecd0a09120aa9024"
+  },
+  "name": "Rose Petals",
+  "description": "Delicate rose notes",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 7,
+      "price": 4700,
+      "_id": {
+        "$oid": "66f94978cc94c9957a607416"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 6,
+      "price": 3600,
+      "_id": {
+        "$oid": "66f94978cc94c9957a607417"
+      }
+    },
+    {
+      "volume": 50,
+      "stock": 3,
+      "price": 2800,
+      "_id": {
+        "$oid": "66f94978cc94c9957a607418"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727613298/azdsdkykdiswxrrhxvvq.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613300/j0or0f6uspuevpyts9v6.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613300/rs7xq6ls5hu8ptsxtiya.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613301/dzpjvy3mtyzzjcfkdqwq.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613300/vwkbtdgdsncoyzphvrmd.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:35:04.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T11:59:34.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f94a10cc94c9957a60741c"
+  },
+  "category": {
+    "$oid": "66f01b496377919631d4caf3"
+  },
+  "brand": {
+    "$oid": "66f023f6ecd0a09120aa8d16"
+  },
+  "name": "Cedar & Musk",
+  "description": "Earthy and musky",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 8,
+      "price": 3600,
+      "_id": {
+        "$oid": "66f94a10cc94c9957a60741d"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 2900,
+      "_id": {
+        "$oid": "66f94a10cc94c9957a60741e"
+      }
+    },
+    {
+      "volume": 50,
+      "stock": 15,
+      "price": 2100,
+      "_id": {
+        "$oid": "66f94a10cc94c9957a60741f"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727613453/tpsomcbszz1j7f1zryqj.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613455/nxz1e0xwf70dmj71lgal.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613454/edbwfs4qrcuqwcwnvqwu.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613454/x1fbqxsngahuur05tyej.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613454/txvozbpkrtfh5jplaivz.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:37:36.843Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T15:51:47.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f94aa7cc94c9957a607423"
+  },
+  "category": {
+    "$oid": "66f01bd16377919631d4cb03"
+  },
+  "brand": {
+    "$oid": "66f1701eecd0a09120aa9024"
+  },
+  "name": "Jasmine Allure",
+  "description": "Sweet and seductive",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": 7,
+      "price": 2600,
+      "_id": {
+        "$oid": "6721bbf4c8d6176a7043360a"
+      }
+    },
+    {
+      "volume": 75,
+      "stock": 15,
+      "price": 3000,
+      "_id": {
+        "$oid": "6721bbf4c8d6176a7043360b"
+      }
+    },
+    {
+      "volume": 100,
+      "stock": 10,
+      "price": 3400,
+      "_id": {
+        "$oid": "6721bbf4c8d6176a7043360c"
+      }
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727613602/hkpxnwzo6qopaqnpyn6v.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613604/xkul2o4sbfkws9d00sag.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613605/ggpczizjgpnevcn89asx.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613603/ab4zkuaowoftgyzqyagk.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727613604/uykhrjq7axpii1opwqep.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:40:07.656Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-02T11:10:25.988Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66f94b2fcc94c9957a60742a"
+  },
+  "category": {
+    "$oid": "66f238fbecd0a09120aa90bd"
+  },
+  "brand": {
+    "$oid": "66f01c096377919631d4cb0a"
+  },
+  "name": "Citrus Grove",
+  "description": "Zesty and fresh",
+  "variants": [
+    {
+      "volume": 50,
+      "stock": 9,
+      "price": 2200,
+      "_id": {
+        "$oid": "66febf0fa6e407f4799b63e5"
+      },
+      "offer_discount_amount": 330,
+      "sale_price_after_discount": 1870
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 2800,
+      "_id": {
+        "$oid": "66febf0fa6e407f4799b63e6"
+      },
+      "offer_discount_amount": 420,
+      "sale_price_after_discount": 2380
+    },
+    {
+      "volume": 100,
+      "stock": 10,
+      "price": 3200,
+      "_id": {
+        "$oid": "66febf0fa6e407f4799b63e7"
+      },
+      "offer_discount_amount": 480,
+      "sale_price_after_discount": 2720
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1727877225/r0xxts48dpo8bnei9a5a.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727971089/ybdpa9qb2zvwf6kbg8xn.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727971087/o0jsyfk0m1xzxampdedx.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727971087/vas7bnnpgwnbanjdzbd7.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1727971087/nynmsxxyqmsg7v6wddyg.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-09-29T12:42:23.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T18:36:40.606Z"
+  },
+  "__v": 4,
+  "product_offer": {
+    "offer_name": "The Essence Event",
+    "offer_discount_percentage": 15,
+    "offer_start_date": {
+      "$date": "2024-11-05T00:00:00.000Z"
+    },
+    "offer_expire_date": {
+      "$date": "2024-11-25T00:00:00.000Z"
+    },
+    "offer_status": true,
+    "_id": {
+      "$oid": "673b28c591e8072a121c45aa"
+    },
+    "createdAt": {
+      "$date": "2024-11-18T11:45:09.185Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T11:45:09.185Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6739e312e52b32681d2c0e0e"
+  },
+  "category": {
+    "$oid": "66f0193b6377919631d4cae9"
+  },
+  "brand": {
+    "$oid": "66f1701eecd0a09120aa9024"
+  },
+  "name": "Eternity Eau de Parfum for Men",
+  "description": "This is a classic, sophisticated fragrance with a floral base",
+  "variants": [
+    {
+      "volume": 100,
+      "stock": 8,
+      "price": 6999,
+      "_id": {
+        "$oid": "6739e312e52b32681d2c0e0f"
+      },
+      "offer_discount_amount": 699.9,
+      "sale_price_after_discount": 6299.1
+    },
+    {
+      "volume": 75,
+      "stock": 10,
+      "price": 5999,
+      "_id": {
+        "$oid": "6739e312e52b32681d2c0e10"
+      },
+      "offer_discount_amount": 599.9,
+      "sale_price_after_discount": 5399.1
+    },
+    {
+      "volume": 50,
+      "stock": 10,
+      "price": 3499,
+      "_id": {
+        "$oid": "6739e312e52b32681d2c0e11"
+      },
+      "offer_discount_amount": 349.9,
+      "sale_price_after_discount": 3149.1
+    }
+  ],
+  "product_card_image": "https://res.cloudinary.com/dap3tweks/image/upload/v1731846928/ggt04bxkdymyeifwg8ny.webp",
+  "product_details_images": [
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1731846929/qes35bwsoyby4pklpfyx.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1731846929/sbo2jsnrb1gizrdx3wv8.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1731846929/ldpgjgo6bkxpk5ztdwqm.webp",
+    "https://res.cloudinary.com/dap3tweks/image/upload/v1731846930/vghofd0qryfy1djbibvy.webp"
+  ],
+  "is_blocked": false,
+  "createdAt": {
+    "$date": "2024-11-17T12:35:30.906Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T09:34:14.259Z"
+  },
+  "__v": 0,
+  "product_offer": {
+    "offer_name": "Year Ending",
+    "offer_discount_percentage": 10,
+    "offer_start_date": {
+      "$date": "2024-11-20T00:00:00.000Z"
+    },
+    "offer_expire_date": {
+      "$date": "2024-12-08T00:00:00.000Z"
+    },
+    "offer_status": true,
+    "_id": {
+      "$oid": "674ea17f51bf987507624c79"
+    },
+    "createdAt": {
+      "$date": "2024-12-03T06:13:19.464Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-03T06:13:19.464Z"
+    }
+  }
+}]

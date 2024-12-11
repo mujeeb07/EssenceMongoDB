@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "67333f82e462874b94bfec07"
+  },
+  "user": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "item": [],
+  "createdAt": {
+    "$date": "2024-11-12T11:44:02.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T14:18:01.327Z"
+  },
+  "__v": 186,
+  "coupon_amount": 500
+},
+{
+  "_id": {
+    "$oid": "673adacf5c4c41d21788331f"
+  },
+  "user": {
+    "$oid": "673ad0e25c4c41d21788326b"
+  },
+  "item": [
+    {
+      "product": {
+        "$oid": "66f025adecd0a09120aa8d33"
+      },
+      "quantity": 1,
+      "price": 5850,
+      "offer_price": null,
+      "volume": 50,
+      "_id": {
+        "$oid": "673adacf5c4c41d217883320"
+      },
+      "createdAt": {
+        "$date": "2024-11-18T06:12:31.533Z"
+      },
+      "updatedAt": {
+        "$date": "2024-11-18T06:12:31.533Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-18T06:12:31.534Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-18T06:12:31.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674efced9ed214ffd0961b0f"
+  },
+  "user": {
+    "$oid": "674efcbf9ed214ffd0961a68"
+  },
+  "item": [
+    {
+      "product": {
+        "$oid": "66f027a0ecd0a09120aa8d5c"
+      },
+      "quantity": 4,
+      "price": 14450,
+      "offer_price": 11560,
+      "volume": 50,
+      "_id": {
+        "$oid": "674f01369ed214ffd0961df8"
+      },
+      "createdAt": {
+        "$date": "2024-12-03T13:01:42.140Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T13:01:42.140Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T12:43:25.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T13:01:42.140Z"
+  },
+  "__v": 2,
+  "coupon_amount": 1500
+},
+{
+  "_id": {
+    "$oid": "67558bb940f252c20c98110c"
+  },
+  "user": {
+    "$oid": "67558b1b40f252c20c981044"
+  },
+  "item": [],
+  "createdAt": {
+    "$date": "2024-12-08T12:06:17.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T05:27:24.428Z"
+  },
+  "__v": 1,
+  "coupon_amount": 500
+},
+{
+  "_id": {
+    "$oid": "6756800f5d5219509003507f"
+  },
+  "user": {
+    "$oid": "67567fef5d52195090034fdf"
+  },
+  "item": [],
+  "createdAt": {
+    "$date": "2024-12-09T05:28:47.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T11:08:56.701Z"
+  },
+  "__v": 1,
+  "coupon_amount": 1000
+}]

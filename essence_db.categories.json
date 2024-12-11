@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "66f0193b6377919631d4cae9"
+  },
+  "name": "Luxury/High-End Perfumes",
+  "description": "Timeless elegance.",
+  "is_active": true,
+  "gender": "Unisex",
+  "createdAt": {
+    "$date": "2024-09-22T13:18:51.031Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-07T06:25:00.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f01b496377919631d4caf3"
+  },
+  "name": "Niche",
+  "description": "Bold, exclusive.",
+  "is_active": true,
+  "gender": "Unisex",
+  "createdAt": {
+    "$date": "2024-09-22T13:27:37.081Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-07T06:25:02.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f01b916377919631d4cafb"
+  },
+  "name": "Designer",
+  "description": "Trendy, fashionable.",
+  "is_active": true,
+  "gender": "Women",
+  "createdAt": {
+    "$date": "2024-09-22T13:28:49.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-07T06:25:04.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f01bd16377919631d4cb03"
+  },
+  "name": "Fresh",
+  "description": " Sophisticated, modern.",
+  "is_active": true,
+  "gender": "Unisex",
+  "createdAt": {
+    "$date": "2024-09-22T13:29:53.849Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-07T06:25:06.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f01bec6377919631d4cb06"
+  },
+  "name": "Luxury",
+  "description": " Classic, refined.",
+  "is_active": true,
+  "gender": "Unisex",
+  "createdAt": {
+    "$date": "2024-09-22T13:30:20.787Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T14:06:56.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f238fbecd0a09120aa90bd"
+  },
+  "name": "Eternity Eau de Parfum",
+  "description": "This is a classic, sophisticated",
+  "is_active": true,
+  "gender": "Men",
+  "createdAt": {
+    "$date": "2024-09-24T03:58:51.675Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-07T06:25:14.213Z"
+  },
+  "__v": 0
+}]

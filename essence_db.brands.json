@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "66f01b206377919631d4caef"
+  },
+  "brandName": "Chanel",
+  "description": "Timeless elegance.",
+  "is_deleted": false,
+  "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011614/wjgkty7uvxwsq8oruhfu.jpg",
+  "createdAt": {
+    "$date": "2024-09-22T13:26:56.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T11:32:45.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f01b6c6377919631d4caf7"
+  },
+  "brandName": "Tom Ford",
+  "description": "Bold, exclusive.",
+  "is_deleted": false,
+  "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011690/geggltiuiakm4ctibwuy.jpg",
+  "createdAt": {
+    "$date": "2024-09-22T13:28:12.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T09:37:40.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f01bb86377919631d4caff"
+  },
+  "brandName": "Gucci",
+  "description": "Trendy, fashionable.",
+  "is_deleted": false,
+  "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011766/ocr6uk4uvp3kptlqq00c.jpg",
+  "createdAt": {
+    "$date": "2024-09-22T13:29:28.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-22T13:29:28.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f01c096377919631d4cb0a"
+  },
+  "brandName": "Creed",
+  "description": "Classic, refined.",
+  "is_deleted": false,
+  "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727011848/aehu0jrdgxiqvkmlovrb.png",
+  "createdAt": {
+    "$date": "2024-09-22T13:30:49.993Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-22T13:30:49.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f023f6ecd0a09120aa8d16"
+  },
+  "brandName": "Dior",
+  "description": "Sophisticated, modern.",
+  "is_deleted": false,
+  "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727013876/l5rpz9sbxmkyhrx3lwy0.png",
+  "createdAt": {
+    "$date": "2024-09-22T14:04:38.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-22T14:57:31.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1701eecd0a09120aa9024"
+  },
+  "brandName": "Calvin Klein",
+  "description": "Elegant, Luxurious, Professional",
+  "is_deleted": false,
+  "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727098909/pn3w7qwp56cpgeuhqofm.svg",
+  "createdAt": {
+    "$date": "2024-09-23T13:41:50.900Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-23T13:41:50.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f170e2ecd0a09120aa9040"
+  },
+  "brandName": "Dolce & Gabbana",
+  "description": "D&G, is an Italian luxury fashion house",
+  "is_deleted": false,
+  "logo": "https://res.cloudinary.com/dap3tweks/image/upload/v1727099106/sbazlknjsgjuk7yjmhyh.png",
+  "createdAt": {
+    "$date": "2024-09-23T13:45:06.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T11:33:07.156Z"
+  },
+  "__v": 0
+}]

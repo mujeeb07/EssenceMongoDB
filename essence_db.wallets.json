@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "673e070430a6fcd7e336909f"
+  },
+  "user_id": {
+    "$oid": "66f3a6663f278f74bda15634"
+  },
+  "balance": 46167.97036766681,
+  "transactions": [
+    {
+      "order_id": {
+        "$oid": "673ead321a75213c5f50aa9e"
+      },
+      "amount": 3500,
+      "type": "credit",
+      "wallet_transaction_status": "refunded",
+      "_id": {
+        "$oid": "673eaf301a75213c5f50aace"
+      },
+      "createdAt": {
+        "$date": "2024-11-21T03:55:28.802Z"
+      },
+      "updatedAt": {
+        "$date": "2024-11-21T03:55:28.802Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-20T15:57:56.256Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T14:18:01.319Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "674efe029ed214ffd0961ba6"
+  },
+  "user_id": {
+    "$oid": "674efcbf9ed214ffd0961a68"
+  },
+  "balance": 35997.82,
+  "createdAt": {
+    "$date": "2024-12-03T12:48:02.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T13:00:20.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67567c507766489f16448cbd"
+  },
+  "user_id": {
+    "$oid": "67558b1b40f252c20c981044"
+  },
+  "balance": 0,
+  "createdAt": {
+    "$date": "2024-12-09T05:12:48.258Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T05:12:48.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6756b91c6895bab699e9a260"
+  },
+  "user_id": {
+    "$oid": "67567fef5d52195090034fdf"
+  },
+  "balance": 0,
+  "createdAt": {
+    "$date": "2024-12-09T09:32:12.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T09:32:12.194Z"
+  },
+  "__v": 0
+}]
